@@ -1,7 +1,5 @@
 import random
-
 rng = random.randint(1, 20)
-
 while True:  
     print("Introduzca un numero")
     
